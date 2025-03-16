@@ -1,0 +1,14 @@
+tensorflow==2.x.x
+keras==2.x.x
+numpy==1.x.x
+pandas==1.x.x
+matplotlib==3.x.x
+seaborn==0.x.x
+scikit-learn==0.x.x
+optuna==2.x.x
+pymysql==1.x.x
+sqlalchemy==1.x.x
+requests==2.x.x
+alpaca-trade-api==1.x.x
+statsmodels==0.x.x
+scipy==1.x.x
